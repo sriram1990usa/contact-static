@@ -1,0 +1,30 @@
+.container {    
+    border: 2px solid red;
+    text-align: center;
+}
+.page-header {
+    margin-bottom: 10px;
+    background-color: aqua;
+} 
+.head2 {
+    background-color: darkgoldenrod;
+    color:rgb(17, 4, 70);
+}
+h1 {    
+    text-align: center;
+}
+.post {
+    margin-top: 10px;
+}
+.posttime {   
+    color:darkred;
+    background-color: rgb(188, 214, 115);
+}
+.posttitle {
+    color:rgb(20, 4, 55);
+    background-color: blueviolet;
+}
+.posttext {
+    color: rgb(17, 4, 70); 
+    background-color: cyan;
+}
